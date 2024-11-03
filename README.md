@@ -1,7 +1,7 @@
 # Wikipedia Places Demo
 
 ## Project Overview
-This project allows users to view a list of pre-defined locations, select one, and open it directly in the Wikipedia app’s Places view. The Wikipedia app (https://github.com/wikimedia/wikipedia-ios) must be modified to add support for deep linking for specific locations.
+This project allows users to view a list of pre-defined locations, select one, and open it directly in the Wikipedia app’s Places view. The Wikipedia app (https://github.com/animar71/CustomWikipedia) must be modified to add support for deep linking for specific locations.
 
 ## Features
 * **Deep Linking to Wikipedia ‘Places’ Tab**: Opens Wikipedia’s ‘Places’ view at specified coordinates through custom deep links.
